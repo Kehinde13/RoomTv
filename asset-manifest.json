@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RoomTv/static/css/main.0bf92d52.css",
+    "main.js": "/RoomTv/static/js/main.33d78770.js",
+    "static/media/animation-background.jpg": "/RoomTv/static/media/animation-background.9eabd916b7e5eeeec78e.jpg",
+    "static/media/super-hero-background.jpg": "/RoomTv/static/media/super-hero-background.718e642d2de5f85fdf49.jpg",
+    "static/media/series-background.jpg": "/RoomTv/static/media/series-background.238fcf8c6c6764750870.jpg",
+    "static/media/nollywood-background.jpg": "/RoomTv/static/media/nollywood-background.2bc6c7a8a874ae3fff73.jpg",
+    "static/media/profile.jpg": "/RoomTv/static/media/profile.7cb53ba9f22e09c46151.jpg",
+    "static/media/slick.svg": "/RoomTv/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/RoomTv/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/RoomTv/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/RoomTv/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/RoomTv/index.html",
+    "main.0bf92d52.css.map": "/RoomTv/static/css/main.0bf92d52.css.map",
+    "main.33d78770.js.map": "/RoomTv/static/js/main.33d78770.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bf92d52.css",
+    "static/js/main.33d78770.js"
+  ]
+}
