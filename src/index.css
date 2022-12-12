@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+
+/* Carousel design */
+.content {
+    max-width: 1280px;
+    overflow-x: hidden;
+    margin: 0 auto;
+}
+
+/* Typewritter Effect */
+.effect {
+   margin: 10px;
+   text-align: center;
+   font-weight: bold;
+   font-size: 1rem;
+}
+
+@media screen and (min-width: 480px) {
+  .effect {
+    font-size: 1.5rem;
+  }
+}
+
+@tailwind utilities;
